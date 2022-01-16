@@ -85,10 +85,10 @@ author:
   bio              : "PhD Candidate, University of North Carolina at Chapel Hill"
   location         : "Chapel Hill, North Carolina"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=X8xHKWMAAAAJ&hl=en"
   email            : "ndelacerda@unc.edu"
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ndelacerda"
+  github           : #"ndelacerda"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "n_delacerda"
+  twitter          : #"n_delacerda"
   vine             :
   weibo            :
   xing             :
