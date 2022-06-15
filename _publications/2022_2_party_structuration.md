@@ -1,5 +1,5 @@
 ---
-title: "Revisiting party system structuration in Latin America and Europe: Economic and socio-cultural dimensions"
+title: "Revisiting Party System Structuration in Latin America and Europe: Economic and Socio-cultural Dimensions"
 collection: publications
 permalink: /publication/2022_02_structuration
 excerpt:
