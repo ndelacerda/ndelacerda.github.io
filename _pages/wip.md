@@ -3,7 +3,7 @@ permalink: /wip/
 title: "Work in Progress"
 ---
 
-## Beyond Partisanship: Political Identity Profiles in Latin America.
+## Beyond Partisanship: Political Identity Profiles in Latin America
 
 <u>Abstract</u>: Research on political identities has been dominated by a focus on partisanship. However, it is widely recognized that parties are only one of many political markers with which citizens can identify. I address this gap in the literature by providing a theoretical and empirical framework to study political identification in a comparative perspective. The political identity profiles (PIP) framework proposes that political identities are not bound to partisanship and that context plays a fundamental role in shaping the salience of different forms of political identification. To test this framework, I introduce a multi-item scale tailored to measure different types of political identities. I then provide evidence for the internal and convergent validity of the measures used by focusing on the Latin American case. Results provide strong evidence in favor of the validity of the framework. I conclude by focusing on some of the normative implications of these findings for the study of political behavior and democracy.
 
@@ -47,7 +47,7 @@ title: "Work in Progress"
 
 [Presented at the Western Political Science Association 2023 Annual Meeting, San Francisco]
 
-## Partisan Profiles in Democracies and Non-Democracies: Evidence from 101 Countries.
+## Partisan Profiles in Democracies and Non-Democracies: Evidence from 101 Countries
 
 **with Courtney Blackington**
 
