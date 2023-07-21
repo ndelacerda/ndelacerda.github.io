@@ -33,7 +33,7 @@ title: "Work in Progress"
 
 ## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements
 
-**with Ryan Bakker, Seth Jolly, Patrick Leslie, Jonathan Pol, Jill Sheppard, and Roi Zur**
+**with Ryan Bakker, Seth Jolly, Patrick Leslie, Jonathan Polk, Jill Sheppard, and Roi Zur**
 
 <u>Abstract</u>: We examine the cross-national comparability of expert placements of political parties on the economic left-right dimension using a novel data set that combines data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we evaluate whether there is evidence of region, country, or expert-level differential item functioning (DIF), in terms of how experts perceive party placements on an economic left-right dimension. We then explore systematic differences across experts' perceptual distortion parameters (DIF ``shift'' and ``stretch'' terms) using Bayesian Multilevel Regression Models. The models show that there are no substantively interesting systematic biases in perceptions of party placements for either term at the region, country, or expert level. More generally, our results clearly support the claim that the economic left-right dimension travels well across the globe.
 

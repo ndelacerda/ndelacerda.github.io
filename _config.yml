@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolás de la Cerda Coya"
+title                    : "Nicolás de la Cerda"
 title_separator          : "-"
-name                     : &name "Nicolás de la Cerda Coya"
+name                     : &name "Nicolás de la Cerda"
 description              : &description "personal description"
 url                      : //ndelacerda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolás de la Cerda Coya"
+  name             : "Nicolás de la Cerda"
   avatar           : "profile_2.JPG"
   bio              : "PhD Candidate, University of North Carolina at Chapel Hill"
   location         : "Chapel Hill, North Carolina"
