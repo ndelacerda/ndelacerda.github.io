@@ -29,7 +29,7 @@ title: "Work in Progress"
 
 <u>Abstract</u>: This paper evaluates the extent to which political parties in contemporary Latin America compete by offering voters distinct policy programs, and the degree to which they rely on alternative, non-programmatic appeals. Using data from CHES-LA, a recent expert survey of party positions in the region, we employ confirmatory factor analysis to show that political parties compete for voters using a mix of programmatic and non-programmatic appeals. We demonstrate that populism and particularism, though related, are two different non-programmatic dimensions, and that they interact in systematic ways with the programmatic dimension. While programmatically polarized parties tend to rely on populist appeals, centrist and right-wing parties are more likely to favor particularism. More generally, we provide a comprehensive view of party competition in the region.
 
-[Presented at the Latin American Studies Association 2023 Annual Meeting, Vancouver]
+[Under Review]
 
 ## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements
 
