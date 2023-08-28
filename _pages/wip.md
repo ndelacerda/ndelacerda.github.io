@@ -31,9 +31,17 @@ title: "Work in Progress"
 
 [Under Review]
 
+## Programmatic and Non-Programmatic Bases of Partisan Responses to the COVID-19 Pandemic in Latin America
+
+**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
+
+<u>Abstract</u>: This research note explores variation in initial policy response to the COVID-19 pandemic through the lens of party political competition in Latin America. We  argue that the way in which political parties and presidents reacted to the COVID-19 pandemic was shaped by both programmatic and non-programmatic aspects of party competition. Findings are consistent with these expectations. The reaction to the COVID-19 pandemic in Latin America was largely a consequence of the ideological stances and the levels of populism of the parties in the region. These findings provide further evidence that programmatic and non-programmatic competition not only coexist, but interact in predictable ways in Latin America’s party systems. 
+
+[Under Review]
+
 ## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements
 
-**with Ryan Bakker, Seth Jolly, Patrick Leslie, Jonathan Polk, Jill Sheppard, and Roi Zur**
+**Ryan Bakker,Ruth Dassonneville, Seth Jolly, Jelle Koedam, Patrick Leslie, Jonathan Polk, Jill Sheppard, and Roi Zur**
 
 <u>Abstract</u>: We examine the cross-national comparability of expert placements of political parties on the economic left-right dimension using a novel data set that combines data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we evaluate whether there is evidence of region, country, or expert-level differential item functioning (DIF), in terms of how experts perceive party placements on an economic left-right dimension. We then explore systematic differences across experts' perceptual distortion parameters (DIF ``shift'' and ``stretch'' terms) using Bayesian Multilevel Regression Models. The models show that there are no substantively interesting systematic biases in perceptions of party placements for either term at the region, country, or expert level. More generally, our results clearly support the claim that the economic left-right dimension travels well across the globe.
 
@@ -46,12 +54,6 @@ title: "Work in Progress"
 <u>Abstract</u>: Is partisan attitudinal bias driven by affect or ideology? In this paper we evaluate the extent to which partisan bias is driven by affect or ideology by theorizing and testing the theoretical underpinnings of each of these potential mechanisms. Following (Lodge & Taber, 2013), we theorize that partisan bias can be an outcome of two different information processing channels: motivated bias and affect transfer.  While motivated bias arises from the tendency to accept information that is consistent with the one stored in memory, affect transfer charges information affectively depending on the characteristics of the messenger or the way in which the information is delivered. Using a survey experiment designed to untangle these two mechanisms and methods designed to detect treatment effect heterogeneity and calculate conditional treatment effects (Causal Forest), we find that affect plays a much more important role than ideology in moderating the effect of partisan cues on information processing in the United States.
 
 [Presented at the Western Political Science Association 2023 Annual Meeting, San Francisco]
-
-## Programmatic and Non-Programmatic Bases of Partisan Responses to the COVID-19 Pandemic in Latin America
-
-**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
-
-<u>Abstract</u>: This research note explores variation in initial policy response to the COVID-19 pandemic through the lens of party political competition in Latin America. We  argue that the way in which political parties and presidents reacted to the COVID-19 pandemic was shaped by both programmatic and non-programmatic aspects of party competition. Findings are consistent with these expectations. The reaction to the COVID-19 pandemic in Latin America was largely a consequence of the ideological stances and the levels of populism of the parties in the region. These findings provide further evidence that programmatic and non-programmatic competition not only coexist, but interact in predictable ways in Latin America’s party systems. 
 
 ## Partisan Profiles in Democracies and Non-Democracies: Evidence from 101 Countries
 

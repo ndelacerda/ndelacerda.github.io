@@ -30,4 +30,4 @@ title: "Teaching"
 
 ### Pontificia Universidad Católica de Chile (Graduate Level)
 - SOL (3070) Data Analysis (2<sup>nd</sup> term 2015)
-- SOL (3070) Design and Analysis of Social Research (1<sup>st</sup> term 2013)
+- SOL (3000) Design and Analysis of Social Research (1<sup>st</sup> term 2013)
