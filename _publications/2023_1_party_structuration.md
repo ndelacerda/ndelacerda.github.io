@@ -1,9 +1,9 @@
 ---
 title: "Revisiting Party System Structuration in Latin America and Europe: Economic and Socio-cultural Dimensions"
 collection: publications
-permalink: /publication/2022_02_structuration
+permalink: /publication/2023_01_structuration
 excerpt:
-date: 2022-06-11
+date: 2023-01-01
 venue: 'Party Politics'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'

@@ -1,7 +1,7 @@
 ---
 title: "Mexico: A Politically Effective Populist Pandemic Response"
 collection: publications
-permalink: /publication/2022_03_mexico
+permalink: /publication/2022_02_mexico
 excerpt:
 date: 2022-07-19
 venue: 'Populists and the Pandemic: How Populists Around the World Responded to COVID-19 (Nils Ringe and Lucio Rennó eds.)'
