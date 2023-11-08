@@ -4,11 +4,13 @@ collection: publications
 permalink: /publication/2023_02_families
 excerpt:
 date: 2023-09-01
-venue: 'European Journal of Political Research (forthcoming)'
+venue: 'European Journal of Political Research'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: #'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 [comment]: <> This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](http://doi.org/10.1111/1475-6765.12638 )
 
 **[With Jacob Gunderson]**
 
