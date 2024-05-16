@@ -24,7 +24,7 @@ title: "Teaching"
 ## Teaching Assistant
 
 ### The University of North Carolina at Chapel Hill
-- Data Literacy Lab (Fall 2022, Spring 2023, Fall 2023)
+- Data Literacy Lab (Fall 2022, Spring 2023, Fall 2023, Spring 2024)
 - POLI 203: Race, Innocence, and the Decline of the Death Penalty (Spring 2022)
 - POLI 130: Comparative Politics (Fall 2019, Spring 2020, Fall, 2020)
 
