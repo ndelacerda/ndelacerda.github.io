@@ -19,15 +19,6 @@ title: "Work in Progress"
 
 <i>Invited to revise and resubmit at Political Behavior<i>.
 
-## Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America
-
-**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
-
-<u>Abstract</u>: This research note explores variation in policy responses to the COVID-19 pandemic in Latin America, looking particularly at preferences over the trade-off between virus containment and an open economy and over the expansion of executive authority. First, we argue that support for containment was shaped by the ideology of presidents and parties. But populism also had an important—though heterogeneous—effect; while non-populist consistently supported virus containment, populists had more varied responses. In a region marked by weak party systems, we show that the association between pandemic responses, ideology, and populism is stronger for more programmatic parties. Second, we also argue that incumbents and populist favored further concentration of power to address the pandemic. We rely on the Chapel Hill Expert Survey-Latin America (CHES-LA) to test our hypotheses. Overall, we show that key features of party competition – ideology, populism and programmatic linkages –all matter for understanding Latin America’s party systems.
-
-<i>Invited to revise and resubmit at the Journal of Politics in Latin America<i>.
-
-
 ## Beyond Partisanship: Political Identity Profiles in Latin America
 
 <u>Abstract</u>: Research on political identities has been dominated by a focus on partisanship. However, it is widely recognized that parties are only one of many political markers with which citizens can identify. I address this gap in the literature by providing a theoretical and empirical framework to study political identification in a comparative perspective. The political identity profiles (PIP) framework proposes that political identities are not bound to partisanship and that context plays a fundamental role in shaping the salience of different forms of political identification. To test this framework, I introduce a multi-item scale tailored to measure different types of political identities. I then provide evidence for the internal and convergent validity of the measures used by focusing on the Latin American case. Results provide strong evidence in favor of the validity of the framework. I conclude by focusing on some of the normative implications of these findings for the study of political behavior and democracy.
