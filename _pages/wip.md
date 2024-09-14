@@ -25,6 +25,12 @@ title: "Work in Progress"
 
 <i>Under review.<i>
 
+## The Case for Non-Partisan Political Cueing: Experimental Evidence from Peru
+
+<u>Abstract</u>: Citizens infer policy information from partisan cues. Yet, the utility of partisan cues varies cross-nationally. In weakly institutionalized democracies with short-lived political parties and volatile party systems, partisan cues are likely of little heuristic value. I argue that in these places citizens can rely on alternative political markers, such as ideological or political movement-related categories, to make sense of the political arena. I test this argument in Peru, a country with an extremely volatile party system and deep distrust in political parties. Using a survey experiment, I show that political cues significantly influence policy preferences even in the absence of clear and strong partisan brands. Findings from this paper underscore the importance of alternative forms of political identification in weakly institutionalized party systems. 
+
+<i>Under review.<i>
+
 ## To blur or not to blur: Disentangling populist ideology and electoral strategy in Europe and Latin America
 
 **with Jacob Gunderson**
@@ -33,11 +39,13 @@ title: "Work in Progress"
 
 <i>Under review.<i>
 
-## The Case for Non-Partisan Political Cueing: Experimental Evidence from Peru
+## Beyond an Instrumental Exchange: Political Affects and Clientelist Compliance in Contemporary Mexico
 
-<u>Abstract</u>: Citizens infer policy information from partisan cues. Yet, the utility of partisan cues varies cross-nationally. In weakly institutionalized democracies with short-lived political parties and volatile party systems, partisan cues are likely of little heuristic value. I argue that in these places citizens can rely on alternative political markers, such as ideological or political movement-related categories, to make sense of the political arena. I test this argument in Peru, a country with an extremely volatile party system and deep distrust in political parties. Using a survey experiment, I show that political cues significantly influence policy preferences even in the absence of clear and strong partisan brands. Findings from this paper underscore the importance of alternative forms of political identification in weakly institutionalized party systems. 
+**with Rodrigo Castro Cornejo**
 
-<i>Presented at the Midwest Political Science Association 2024 Annual Conference, the Duke/UNC Political Behavior Group Meeting (2024), and at the Congreso Chileno de Ciencia Política 2023.<i>
+<u>Abstract</u>: While clientelist exchanges are typically analyzed from an instrumental perspective, we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome these challenges using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms and address issues of misreporting. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships. 
+
+<i>Presented at the American Political Science Association 2024 Annual Conference, Philadelphia<i>.
 
 ## Political Identities and Belief Networks in Developing Democracies
 
@@ -52,14 +60,6 @@ title: "Work in Progress"
 <u>Abstract</u>: This paper evaluates the extent to which political parties in contemporary Latin America compete by offering voters distinct policy programs, and the degree to which they rely on alternative, non-programmatic appeals. Using data from CHES-LA, a recent expert survey of party positions in the region, we employ confirmatory factor analysis to show that political parties compete for voters using a mix of programmatic and non-programmatic appeals. We demonstrate that populism and particularism, though related, are two different non-programmatic dimensions, and that they interact in systematic ways with the programmatic dimension. While programmatically polarized parties tend to rely on populist appeals, centrist and right-wing parties are more likely to favor particularism. More generally, we provide a comprehensive view of party competition in the region.
 
 <i>Presented at the American Political Science Association 2023 Annual Conference, Los Angeles.<i>
-
-## Beyond an Instrumental Exchange: The Effect of Clientelism on Expressive Partisanship in Mexico 
-
-**with Rodrigo Castro Cornejo**
-
-<u>Abstract</u>: While clientelistic exchanges are typically analyzed from an instrumental perspective, viewing them as rational interactions between actors who aim to maximize their utility, we argue that gift-giving can transcend utilitarian considerations and increase expressive attitudes towards political parties. In particular, we posit that clientelistic exchanges can increase positive feelings towards political parties and even shape levels of partisanship. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters. We overcome this challenge by leveraging a three-wave panel study that allows us to identify the effect of clientelism on parties/candidates’ evaluations and partisanship controlling by political machines’ pre-existing patterns of resource allocation. Findings show that clientelism can improve evaluations of parties/candidates and partisanship towards the party that distributed the goods and decrease them among those parties that did not target the individuals. Overall, findings from this paper underscore how campaign gift-giving can lead to meaningful attitudinal and affective changes.
-
-<i>Presented at the Midwest Political Science Association 2024 Annual Conference<i>.
 
 ## Partisan Profiles in Democracies and Non-Democracies: Evidence from 101 Countries
 
