@@ -2,7 +2,7 @@
 permalink: /wip/
 title: "Work in Progress"
 ---
-## The Case for Non-Partisan Political Cueing: Experimental Evidence from Peru
+## Cueing without Parties: Experimental Evidence from Peru
 
 <i>Invited to revise and resubmit at Political Behavior<i>.
 
@@ -10,9 +10,9 @@ title: "Work in Progress"
 
 ## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements 
 
-**with Ryan Bakker, Ruth Dassonneville, Seth Jolly, Jelle Koedam, Patrick Leslie, Jonathan Polk, Jill Sheppard, and Roi Zur** 
+**with Ryan Bakker, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, Jill Sheppard, and Roi Zur** 
 
-<i>Invited to revise and resubmit at the Journal of Politics<i>.
+<i>Conditionally accepted at the Journal of Politics<i>.
 
 <u>Abstract</u>: We examine the cross-national comparability of expert placements of political parties on the economic left-right dimension using a novel dataset combining data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we assess evidence of geographic and expert-level differential item functioning (DIF) in how experts interpret the left-right scale. We find statistically significant but substantively small variations in how experts perceive party positions cross-nationally, particularly in terms of directional bias and the spread of their ideological placements. While the correlation between “raw” survey scores and DIF-corrected estimates is high (0.991), we observe meaningful deviations for individual parties, with larger discrepancies between rather than within regions. These results indicate that the economic left-right dimension exhibits broad consistency in expert understanding across countries, yet researchers should still exercise caution when making cross-national comparisons, particularly across regions where expert perceptions show greater variation.
 
