@@ -4,7 +4,7 @@ title: "Work in Progress"
 ---
 ## Cueing without Parties: Experimental Evidence from Peru
 
-<i>Invited to revise and resubmit at Political Behavior<i>.
+<i>Forthcoming at Political Behavior<i>.
 
 <u>Abstract</u>: Citizens infer policy information from partisan cues, yet their utility varies cross-nationally. In weakly institutionalized democracies with short-lived political parties and volatile party systems, partisan cues are likely of little heuristic value. I argue that in these contexts, citizens leverage alternative political markers, such as ideological or political movement-related categories, to make sense of the political arena. I test this argument in Peru, a country with an extremely volatile and distrusted party system. Using a survey experiment, I show that political cues significantly influence policy preferences even in the absence of clear and strong partisan brands. Further analysis using causal forest reveals that movement-related political identities are the primary moderators of cueing effects, outweighing traditional factors such as partisanship or ideology. Notably, while non-partisan cues influence attitude formation, only outgroup cues effectively shape preferences. I theorize that this asymmetry could potentially stem from two distinct features of the Peruvian political landscape: deep mistrust in political parties and patterns of affective polarization marked by stronger outgroup prejudice than ingroup favoritism. Overall, this study underscores the importance of alternative forms of political identification in weakly institutionalized party systems, extending existing theories of public opinion formation to diverse democratic settings.
 
@@ -12,7 +12,7 @@ title: "Work in Progress"
 
 **with Ryan Bakker, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, Jill Sheppard, and Roi Zur** 
 
-<i>Conditionally accepted at the Journal of Politics<i>.
+<i>Forthcoming at the Journal of Politics<i>.
 
 <u>Abstract</u>: We examine the cross-national comparability of expert placements of political parties on the economic left-right dimension using a novel dataset combining data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we assess evidence of geographic and expert-level differential item functioning (DIF) in how experts interpret the left-right scale. We find statistically significant but substantively small variations in how experts perceive party positions cross-nationally, particularly in terms of directional bias and the spread of their ideological placements. While the correlation between “raw” survey scores and DIF-corrected estimates is high (0.991), we observe meaningful deviations for individual parties, with larger discrepancies between rather than within regions. These results indicate that the economic left-right dimension exhibits broad consistency in expert understanding across countries, yet researchers should still exercise caution when making cross-national comparisons, particularly across regions where expert perceptions show greater variation.
 
