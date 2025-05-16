@@ -3,15 +3,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Cueing without Parties: Experimental Evidence from Peru
+de la Cerda, Nicolás. 2025. "Cueing without Parties: Experimental Evidence from Peru". *Political Behavior*. (Forthcoming).
+
+## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements 
+
+de la Cerda, Nicolás, Ryan Bakker, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, Jill Sheppard, and Roi Zur. 2025. "A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements". *The Journal of Politics*. [Paper](https://doi.org/10.1086/736578).
 
 ## Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support
 
 Fuller, Sam,  Nicolás de la Cerda, and Jack T. Rametta. 2025. "Affect, Not Ideology: The Heterogeneous Effects of Partisan Cues on Policy Support". *Political Behavior*. [Paper](https://doi.org/10.1007/s11109-025-10030-w).
 
-
 ## Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America
 
-de la Cerda, Nicolás, Jonathan Hartlyn, and Cecilia Martínez-Gallardo. 2024. "Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America''. *Journal of Politics in Latin America* 16(2), 252-271. [Paper](https://doi.org/10.1177/1866802X241262326).
+de la Cerda, Nicolás, Jonathan Hartlyn, and Cecilia Martínez-Gallardo. 2024. "Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America''. *The Journal of Politics in Latin America* 16(2), 252-271. [Paper](https://doi.org/10.1177/1866802X241262326).
 
 ## Are party families in Europe ideologically coherent today?
 de la Cerda, Nicolás and Jacob Gunderson. 2024. “Are party families in Europe
@@ -24,7 +29,7 @@ Martínez-Gallardo, Cecilia, Nicolás de la Cerda, Jonathan Hartlyn, Ryan Bakker
 de la Cerda, Nicolás and Cecilia Martínez-Gallardo. 2022. “Mexico: A Politically Effective Populist Pandemic Response”. Book chapter in Populists and the Pandemic: How Populists Around the World Respond to COVID-19. Lucio Renno and Nils Ringe, eds. Routledge. [Book Chapter](https://library.oapen.org/bitstream/handle/20.500.12657/57268/9781000634877.pdf?sequence=1#page=50).
 
 ## Unstable Identities: The Decline of Partisanship in Contemporary Chile
-de la Cerda, Nicolás. 2022. “Unstable Identities: The Decline of Partisanship in Contemporary Chile”. *Journal of Politics in Latin America*. 14(1), 3-30. [Paper](https://journals.sagepub.com/doi/full/10.1177/1866802X211069378).
+de la Cerda, Nicolás. 2022. “Unstable Identities: The Decline of Partisanship in Contemporary Chile”. *The Journal of Politics in Latin America*. 14(1), 3-30. [Paper](https://journals.sagepub.com/doi/full/10.1177/1866802X211069378).
 
 ## Ideological Preferences and Evolution of the Religious Cleavage in Chile, 1998–2014
 Bargsted, Matías and Nicolás de la Cerda. 2019. “Ideological Preferences and Evolution of the Religious Cleavage in Chile, 1998–2014”. *Latin American Research Review* 54(2), 348–365. [Paper](https://repositorio.uc.cl/xmlui/bitstream/handle/11534/60365/Ideological%20Preferences%20and%20Evolution%20of%20the%20Religious%20Cleavage%20in%20Chile,%201998-2014.pdf).

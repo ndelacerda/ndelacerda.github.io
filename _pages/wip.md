@@ -2,20 +2,6 @@
 permalink: /wip/
 title: "Work in Progress"
 ---
-## Cueing without Parties: Experimental Evidence from Peru
-
-<i>Forthcoming at Political Behavior<i>.
-
-<u>Abstract</u>: Citizens infer policy information from partisan cues, yet their utility varies cross-nationally. In weakly institutionalized democracies with short-lived political parties and volatile party systems, partisan cues are likely of little heuristic value. I argue that in these contexts, citizens leverage alternative political markers, such as ideological or political movement-related categories, to make sense of the political arena. I test this argument in Peru, a country with an extremely volatile and distrusted party system. Using a survey experiment, I show that political cues significantly influence policy preferences even in the absence of clear and strong partisan brands. Further analysis using causal forest reveals that movement-related political identities are the primary moderators of cueing effects, outweighing traditional factors such as partisanship or ideology. Notably, while non-partisan cues influence attitude formation, only outgroup cues effectively shape preferences. I theorize that this asymmetry could potentially stem from two distinct features of the Peruvian political landscape: deep mistrust in political parties and patterns of affective polarization marked by stronger outgroup prejudice than ingroup favoritism. Overall, this study underscores the importance of alternative forms of political identification in weakly institutionalized party systems, extending existing theories of public opinion formation to diverse democratic settings.
-
-## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements 
-
-**with Ryan Bakker, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, Jill Sheppard, and Roi Zur** 
-
-<i>Forthcoming at the Journal of Politics<i>.
-
-<u>Abstract</u>: We examine the cross-national comparability of expert placements of political parties on the economic left-right dimension using a novel dataset combining data from Europe, Latin America, Australia, Israel, Canada, and the United States. Using anchoring vignettes and Bayesian Aldrich-McKelvey Scaling (BAM), we assess evidence of geographic and expert-level differential item functioning (DIF) in how experts interpret the left-right scale. We find statistically significant but substantively small variations in how experts perceive party positions cross-nationally, particularly in terms of directional bias and the spread of their ideological placements. While the correlation between “raw” survey scores and DIF-corrected estimates is high (0.991), we observe meaningful deviations for individual parties, with larger discrepancies between rather than within regions. These results indicate that the economic left-right dimension exhibits broad consistency in expert understanding across countries, yet researchers should still exercise caution when making cross-national comparisons, particularly across regions where expert perceptions show greater variation.
-
 ## To blur or not to blur: Disentangling populist ideology and electoral strategy in Europe and Latin America
 
 **with Jacob Gunderson**
@@ -23,6 +9,14 @@ title: "Work in Progress"
 <i>Under review.<i>
 
 <u>Abstract</u>: Populists often employ vague and elusive policy prescriptions, but we do not know if this facility for obfuscation is inherent to populism or if it is a response to other characteristics of these parties or their competitive environments. This paper uses data from Europe alongside novel, validated Latin American data to test the argument that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that populists blur their economic positions in multidimensional systems and when they adopt exclusionary thick ideologies. Populist parties in unidimensional party systems and those with inclusionary thick ideologies, however, present clear economic positions. These findings, and the extension of this research field beyond Europe for the first time, have implications for the study of populism as a global phenomenon. Populism and the actors who deploy it should be theorized complexly as strategic actors embedded in diverse social and political systems structuring the opportunities and constraints that these parties adapt to in the electoral arena.
+
+## Why do Voters Comply During Clientelist Exchanges? Affective Clientelism, the Commitment Problem, and Expressive Partisanship in Mexico
+
+**with Rodrigo Castro Cornejo**
+
+<i>Under review.<i>
+
+<u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
 
 ## Beyond Partisanship: Theory and Methods
 
@@ -32,11 +26,11 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
 
-## Why do Voters Comply During Clientelist Exchanges? Affective Clientelism, the Commitment Problem, and Expressive Partisanship in Mexico
+## Democratic Accountability and Support for Democracy: Evidence from a Natural Experiment
 
-**with Rodrigo Castro Cornejo**
+**with Isabel Laterzo and Ayelén Vanegas**
 
-<u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
+<u>Abstract</u>: Following attempts to undermine democracy, institutions can withstand these challenges by holding anti-democratic actors accountable. How do such accountability measures shape public democratic support? Leveraging the unexpected timing of the coup charges brought against former president Bolsonaro by Brazil's Prosecutor General, we examine citizens' reactions to democratic accountability processes. Taking advantage of the fortuitous timing of the charges during our survey fieldwork, we leverage this exogenous event to demonstrate that the charges significantly bolstered democratic attitudes among non-Bolsonaro voters, while having no discernible effect on his supporters. These effects decrease as the time window used in the analysis expands, suggesting they may be short-lived. Our findings challenge prevailing theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their ingroups. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
 ## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
 
@@ -56,7 +50,7 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Public trust in American political institutions has declined sharply since the 1950s, raising concerns about democratic stability, yet we lack a clear agreement on the precise psychological mechanisms underlying institutional trust formation. Understanding how citizens evaluate political institutions presents a significant theoretical challenge: political institutions consist of intricate networks of rules, procedures, and personnel, while citizens consistently demonstrate low levels of political knowledge and engagement. How do citizens generate judgments about complex political institutions despite their limited political sophistication? We argue that citizens navigate institutional complexity through heuristic processing, primarily by evaluating what they perceive as prototypical institutional members. Rather than engaging with institutional complexity directly, citizens form trust judgments based on their perceptions of representative institutional actors, effectively lowering the cognitive cost of their judgments. We propose evaluating several testable implications of our theory through four studies combining open survey questions content analysis, survey experiments, and conjoint experimental designs. Our findings seek to advance our understanding of political trust formation and inform practical efforts to rebuild confidence in democratic institutions.
 
-## The Circumstantial Dimensions of Clientelism
+## A Model of Clientelistic Propensity: How Short-Term Economic Shocks Shape Voters' Receptivity to Clientelism
 
 **with Gonzalo Contreras Aguirre**
 
