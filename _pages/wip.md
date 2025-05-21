@@ -22,9 +22,11 @@ title: "Work in Progress"
 
 **with Isabel Laterzo and Ayelén Vanegas**
 
+<i>Under review.<i>
+
 <u>Abstract</u>: How do criminal proceedings against democratically elected executives influence citizens' support for democracy? We explore citizens' reactions to institutional accountability processes by analyzing the effect of coup charges brought against former president Bolsonaro by Brazil's Prosecutor General. Taking advantage of the fortuitous timing of these charges during our survey fieldwork, we demonstrate that the indictment significantly bolstered democratic support among non-Bolsonaro voters, while having no discernible negative effect on his supporters. Our findings offer a nuanced view of theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their preferred leaders. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
-<i>Under review.<i>
+
 
 ## Beyond Partisanship: Theory and Methods
 
