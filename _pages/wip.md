@@ -26,6 +26,13 @@ title: "Work in Progress"
 
 <u>Abstract</u>: How do criminal proceedings against democratically elected executives influence citizens' support for democracy? We explore citizens' reactions to institutional accountability processes by analyzing the effect of coup charges brought against former president Bolsonaro by Brazil's Prosecutor General. Taking advantage of the fortuitous timing of these charges during our survey fieldwork, we demonstrate that the indictment significantly bolstered democratic support among non-Bolsonaro voters, while having no discernible negative effect on his supporters. Our findings offer a nuanced view of theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their preferred leaders. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
+## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
+
+**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
+
+<i>Under review.<i>
+
+<u>Abstract</u>: Political parties and presidents in contemporary Latin America vary considerably in the extent to which they emphasize policy when appealing to voters (programmatism). We use Confirmatory Factor Analysis and data from the Chapel Hill Expert Survey—Latin America (CHES-LA) to examine how three key party characteristics relate to programmatism: ideological positions, particularistic strategies, and populism. Our results show that political actors on the ideological extremes rely more heavily on programmatism, that particularism and programmatism have a strong negative relationship, and that populism and programmatism are positively associated. Although these findings document important variation in how Latin American parties compete for votes, they reveal concerning patterns in contemporary party competition. Highly populist parties also tend to be programmatic, creating potential trade-offs between clear policy positions and democratic accountability.
 
 
 ## Beyond Partisanship: Theory and Methods
@@ -35,12 +42,6 @@ title: "Work in Progress"
 ## Political Identities and Belief Networks in Developing Democracies
 
 <u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
-
-## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
-
-**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
-
-<u>Abstract</u>: This paper evaluates the extent to which political parties in contemporary Latin America compete by offering voters distinct policy programs, and the degree to which they rely on alternative, non-programmatic appeals. Using data from CHES-LA, a recent expert survey of party positions in the region, we employ confirmatory factor analysis to show that political parties compete for voters using a mix of programmatic and non-programmatic appeals. We demonstrate that populism and particularism, though related, are two different non-programmatic dimensions, and that they interact in systematic ways with the programmatic dimension. While programmatically polarized parties tend to rely on populist appeals, centrist and right-wing parties are more likely to favor particularism. More generally, we provide a comprehensive view of party competition in the region.
 
 ## Thick and Thin Ideological Dimensions of Party Competition in Latin America
 
