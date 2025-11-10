@@ -10,6 +10,14 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
 
+## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
+
+**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
+
+<i>Invited to revise and resubmit at Party Politics.<i>
+
+<u>Abstract</u>: Political parties and presidents in contemporary Latin America vary considerably in the extent to which they emphasize policy when appealing to voters (programmatism). We use Confirmatory Factor Analysis and data from the Chapel Hill Expert Survey—Latin America (CHES-LA) to examine how three key party characteristics relate to programmatism: ideological positions, particularistic strategies, and populism. Our results show that political actors on the ideological extremes rely more heavily on programmatism, that particularism and programmatism have a strong negative relationship, and that populism and programmatism are positively associated. Although these findings document important variation in how Latin American parties compete for votes, they reveal concerning patterns in contemporary party competition. Highly populist parties also tend to be programmatic, creating potential trade-offs between clear policy positions and democratic accountability.
+
 ## Institutional Accountability and Support for Democracy: Evidence from a Natural Experiment
 
 **with Isabel Laterzo and Ayelén Vanegas**
@@ -26,13 +34,13 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Populists often employ vague and elusive policy prescriptions, but we do not know if this facility for obfuscation is inherent to populism or if it is a response to other characteristics of these parties or their competitive environments. This paper uses data from Europe alongside novel, validated Latin American data to test the argument that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that populists blur their economic positions in multidimensional systems and when they adopt exclusionary thick ideologies. Populist parties in unidimensional party systems and those with inclusionary thick ideologies, however, present clear economic positions. These findings, and the extension of this research field beyond Europe for the first time, have implications for the study of populism as a global phenomenon. Populism and the actors who deploy it should be theorized complexly as strategic actors embedded in diverse social and political systems structuring the opportunities and constraints that these parties adapt to in the electoral arena.
 
-## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
+## Thick and Thin Ideological Dimensions of Party Competition in Latin America
 
-**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
+**with Pablo Argote and Giancarlo Visconti**
 
 <i>Under review.<i>
 
-<u>Abstract</u>: Political parties and presidents in contemporary Latin America vary considerably in the extent to which they emphasize policy when appealing to voters (programmatism). We use Confirmatory Factor Analysis and data from the Chapel Hill Expert Survey—Latin America (CHES-LA) to examine how three key party characteristics relate to programmatism: ideological positions, particularistic strategies, and populism. Our results show that political actors on the ideological extremes rely more heavily on programmatism, that particularism and programmatism have a strong negative relationship, and that populism and programmatism are positively associated. Although these findings document important variation in how Latin American parties compete for votes, they reveal concerning patterns in contemporary party competition. Highly populist parties also tend to be programmatic, creating potential trade-offs between clear policy positions and democratic accountability.
+<u>Abstract</u>: While previous research has shown the programmatic component of party competition in Latin America is structured along a single ideological left-right dimension, we argue that voters perceive party competition as simultaneously structured along two axes: a thick and thin ideological dimension. While the former represents traditional definitions of left-right competition, this latter dimension is characterized by the division between establishment and non-establishment orientations. We test this hypothesis in Chile, a country that previously has been characterized as the most unidimensional of the region. Using robust latent variable estimation techniques and both observational and experimental data, we show that voting decisions are shaped not only by left-right ideological positions but also by attitudes towards the political establishment. This finding challenges the prevailing unidimensional model of ideological competition in Latin America and suggests a more complex framework for understanding voter behavior in the region.
 
 
 ## Beyond Partisanship: Theory and Methods
@@ -42,12 +50,6 @@ title: "Work in Progress"
 ## Political Identities and Belief Networks in Developing Democracies
 
 <u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
-
-## Thick and Thin Ideological Dimensions of Party Competition in Latin America
-
-**with Pablo Argote and Giancarlo Visconti**
-
-<u>Abstract</u>: While previous research has shown the programmatic component of party competition in Latin America is structured along a single ideological left-right dimension, we argue that voters perceive party competition as simultaneously structured along two axes: a thick and thin ideological dimension. While the former represents traditional definitions of left-right competition, this latter dimension is characterized by the division between establishment and non-establishment orientations. We test this hypothesis in Chile, a country that previously has been characterized as the most unidimensional of the region. Using robust latent variable estimation techniques and both observational and experimental data, we show that voting decisions are shaped not only by left-right ideological positions but also by attitudes towards the political establishment. This finding challenges the prevailing unidimensional model of ideological competition in Latin America and suggests a more complex framework for understanding voter behavior in the region.
 
 ## The Institutions in our Heads: Prototypes and Trust in Political Institutions
 
