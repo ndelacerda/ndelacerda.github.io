@@ -3,12 +3,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!--## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism-->
+
+[11] de la Cerda, Nicolás, Cecilia Martínez-Gallardo, and Jonathan Hartlyn. Forthcoming. "Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism". *Party Politics*. [Paper](https://doi.org/10.1177/13540688251409367).
+
+
 <!--## Cueing without Parties: Experimental Evidence from Peru-->
 
 [10] de la Cerda, Nicolás. 2025. "Cueing without Parties: Experimental Evidence from Peru". *Political Behavior*. [Paper](https://doi.org/10.1007/s11109-025-10059-x).
 
 <!--## A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements -->
-
 
 [9] de la Cerda, Nicolás, Ryan Bakker, Seth Jolly, Jonathan Polk, Ruth Dassonneville, Jelle Koedam, Patrick Leslie, Jill Sheppard, and Roi Zur. 2025. "A Global Scale of Economic Left-Right Party Positions: Exploring the Cross-National and Cross-Expert Perceptions of Party Placements". *The Journal of Politics*. [Paper](https://doi.org/10.1086/736578).
 

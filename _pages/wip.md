@@ -10,14 +10,6 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
 
-## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism
-
-**with Jonathan Hartlyn and Cecilia Martínez-Gallardo**
-
-<i>Invited to revise and resubmit at Party Politics.<i>
-
-<u>Abstract</u>: Political parties and presidents in contemporary Latin America vary considerably in the extent to which they emphasize policy when appealing to voters (programmatism). We use Confirmatory Factor Analysis and data from the Chapel Hill Expert Survey—Latin America (CHES-LA) to examine how three key party characteristics relate to programmatism: ideological positions, particularistic strategies, and populism. Our results show that political actors on the ideological extremes rely more heavily on programmatism, that particularism and programmatism have a strong negative relationship, and that populism and programmatism are positively associated. Although these findings document important variation in how Latin American parties compete for votes, they reveal concerning patterns in contemporary party competition. Highly populist parties also tend to be programmatic, creating potential trade-offs between clear policy positions and democratic accountability.
-
 ## Institutional Accountability and Support for Democracy: Evidence from a Natural Experiment
 
 **with Isabel Laterzo and Ayelén Vanegas**
