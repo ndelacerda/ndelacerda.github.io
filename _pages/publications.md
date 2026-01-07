@@ -5,7 +5,7 @@ author_profile: true
 ---
 <!--## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism-->
 
-[11] de la Cerda, Nicolás, Cecilia Martínez-Gallardo, and Jonathan Hartlyn. Forthcoming. "Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism". *Party Politics*. [Paper](https://doi.org/10.1177/13540688251409367).
+[11] de la Cerda, Nicolás, Cecilia Martínez-Gallardo, and Jonathan Hartlyn. 2025. "Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism". *Party Politics*. [Paper](https://doi.org/10.1177/13540688251409367).
 
 
 <!--## Cueing without Parties: Experimental Evidence from Peru-->
