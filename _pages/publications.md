@@ -22,12 +22,11 @@ author_profile: true
 
 <!--## Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America-->
 
-[7] de la Cerda, Nicolás, Jonathan Hartlyn, and Cecilia Martínez-Gallardo. 2024. "Ideological and populist bases of partisan responses to the COVID-19 pandemic in Latin America''. *The Journal of Politics in Latin America* 16(2), 252-271. [Paper](https://doi.org/10.1177/1866802X241262326).
+[7] de la Cerda, Nicolás, Jonathan Hartlyn, and Cecilia Martínez-Gallardo. 2024. "Ideological and Populist Bases of Partisan Responses to the COVID-19 Pandemic in Latin America''. *The Journal of Politics in Latin America* 16(2), 252-271. [Paper](https://doi.org/10.1177/1866802X241262326).
 
 <!--## Are party families in Europe ideologically coherent today?-->
 
-[6] de la Cerda, Nicolás and Jacob Gunderson. 2024. “Are party families in Europe
-ideologically coherent today?”. *European Journal of Political Research* 63(3), 1208-1226. [Paper](http://doi.org/10.1111/1475-6765.12638).
+[6] de la Cerda, Nicolás and Jacob Gunderson. 2024. “Are Party Families in Europe Ideologically Coherent Today?”. *European Journal of Political Research* 63(3), 1208-1226. [Paper](http://doi.org/10.1111/1475-6765.12638).
 
 <!--## Revisiting Party System Structuration in Latin America and Europe: Economic and Socio-Cultural Dimensions-->
 

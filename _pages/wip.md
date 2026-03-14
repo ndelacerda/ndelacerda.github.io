@@ -2,7 +2,7 @@
 permalink: /wip/
 title: "Work in Progress"
 ---
-## Why do Voters Comply During Clientelist Exchanges? Affective Clientelism, the Commitment Problem, and Expressive Partisanship in Mexico
+## Why Do Voters Comply During Clientelist Exchanges? Affective Clientelism, the Commitment Problem, and Expressive Partisanship in Mexico
 
 **with Rodrigo Castro Cornejo**
 
@@ -10,7 +10,7 @@ title: "Work in Progress"
 
 <u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
 
-## To blur or not to blur: Disentangling populist ideology and electoral strategy in Europe and Latin America
+## To Blur or Not to Blur: Disentangling Populist Ideology and Electoral Strategy in Europe and Latin America
 
 **with Jacob Gunderson**
 
@@ -35,16 +35,23 @@ title: "Work in Progress"
 
 <u>Abstract</u>: While previous research has shown the programmatic component of party competition in Latin America is structured along a single ideological left-right dimension, we argue that voters perceive party competition as simultaneously structured along two axes: a thick and thin ideological dimension. While the former represents traditional definitions of left-right competition, this latter dimension is characterized by the division between establishment and non-establishment orientations. We test this hypothesis in Chile, a country that previously has been characterized as the most unidimensional of the region. Using robust latent variable estimation techniques and both observational and experimental data, we show that voting decisions are shaped not only by left-right ideological positions but also by attitudes towards the political establishment. This finding challenges the prevailing unidimensional model of ideological competition in Latin America and suggests a more complex framework for understanding voter behavior in the region.
 
+## Political Identities and Belief Networks in Developing Democracies
+
+<i>Under review.<i>
+
+<u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
+
+## The 2024 Chapel Hill Expert Survey – Latin America: Ideology, Populism, and Illiberalism
+
+<i>Under review.<i>
+
+<u>Abstract</u>: How do political parties in contemporary Latin America compete for popular support? This letter introduces the second wave of the 2024 Chapel Hill Expert Survey - Latin America (CHES-LA), a dataset of expert assessments of political parties' positions across 18 Latin American countries. We first establish measurement reliability by benchmarking expert disagreement scores against both the 2020 CHES-LA and the 2024 CHES-Europe. We then evaluate the dimensionality of ideological party competition: while in Europe it is structured along distinct economic and socio-cultural dimensions, in Latin America party competition is organized along a single overarching left-right axis. Finally, we characterize patterns of party competition in Latin America across three relevant dimensions: left-right ideology, populism, and illiberalism. We find that populism and illiberalism are associated with ideological extremism and skew modestly to the right. Though conceptually distinct, populism and illiberalism are strongly associated empirically in contemporary Latin America.
 
 ## Beyond Partisanship: Theory and Methods
 
 <u>Abstract</u>: Partisan identities powerfully shape mass political behavior in established democracies, yet comparative evidence suggests they play a more limited role in developing nations. While scholars recognize that non-partisan political identities can anchor voter behavior in these contexts, existing research lacks theoretical and methodological tools to study them systematically. This article addresses these limitations by developing the Political Identities Profiles (PIP) framework, which provides theoretical and empirical tools for identifying and examining political identities within and across national contexts. Using original survey data from Latin America, this study makes three contributions to our understanding of comparative political behavior. First, it provides guidelines that enable systematic identification and measurement of distinct political identities beyond partisanship. Second, it introduces validation techniques to assess the distinctiveness, relevance, and cross-national comparability of diverse forms of identification. Third, it provides evidence of the importance of alternative forms of political identification in contexts where partisanship is weak. 
 
-## Political Identities and Belief Networks in Developing Democracies
-
-<u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
-
-## The Institutions in our Heads: Prototypes and Trust in Political Institutions
+## The Institutions in Our Heads: Prototypes and Trust in Political Institutions
 
 **with Michael Greenberger**
 
