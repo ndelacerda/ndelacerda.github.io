@@ -6,7 +6,7 @@ title: "Work in Progress"
 
 **with Rodrigo Castro Cornejo**
 
-<i>Invited to revise and resubmit at Perspectives on Politics.<i>
+<i>Invited to revise and resubmit at Perspectives on Politics.</i>
 
 <u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
 
@@ -14,7 +14,7 @@ title: "Work in Progress"
 
 **with Jacob Gunderson**
 
-<i>Invited to revise and resubmit at Perspectives on Politics.<i>
+<i>Invited to revise and resubmit at Perspectives on Politics.</i>
 
 <u>Abstract</u>: Populists often employ vague and elusive policy prescriptions, but we do not know if this facility for obfuscation is inherent to populism or if it is a response to other characteristics of these parties or their competitive environments. This paper uses data from Europe alongside novel, validated Latin American data to test the argument that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that populists blur their economic positions in multidimensional systems and when they adopt exclusionary thick ideologies. Populist parties in unidimensional party systems and those with inclusionary thick ideologies, however, present clear economic positions. These findings, and the extension of this research field beyond Europe for the first time, have implications for the study of populism as a global phenomenon. Populism and the actors who deploy it should be theorized complexly as strategic actors embedded in diverse social and political systems structuring the opportunities and constraints that these parties adapt to in the electoral arena.
 
@@ -23,7 +23,7 @@ title: "Work in Progress"
 
 **with Isabel Laterzo and Ayelén Vanegas**
 
-<i>Under review.<i>
+<i>Under review.</i>
 
 <u>Abstract</u>: How do criminal proceedings against democratically elected executives influence citizens' support for democracy? We explore citizens' reactions to institutional accountability processes by analyzing the effect of coup charges brought against former president Bolsonaro by Brazil's Prosecutor General. Taking advantage of the fortuitous timing of these charges during our survey fieldwork, we demonstrate that the indictment significantly bolstered democratic support among non-Bolsonaro voters, while having no discernible negative effect on his supporters. Our findings offer a nuanced view of theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their preferred leaders. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
@@ -31,7 +31,7 @@ title: "Work in Progress"
 
 **with Pablo Argote and Giancarlo Visconti**
 
-<i>Under review.<i>
+<i>Under review.</i>
 
 <u>Abstract</u>: While previous research has shown the programmatic component of party competition in Latin America is structured along a single ideological left-right dimension, we argue that voters perceive party competition as simultaneously structured along two axes: a thick and thin ideological dimension. While the former represents traditional definitions of left-right competition, this latter dimension is characterized by the division between establishment and non-establishment orientations. We test this hypothesis in Chile, a country that previously has been characterized as the most unidimensional of the region. Using robust latent variable estimation techniques and both observational and experimental data, we show that voting decisions are shaped not only by left-right ideological positions but also by attitudes towards the political establishment. This finding challenges the prevailing unidimensional model of ideological competition in Latin America and suggests a more complex framework for understanding voter behavior in the region.
 
