@@ -14,7 +14,7 @@ title: "Work in Progress"
 
 **with Jacob Gunderson**
 
-<i>Invited to revise and resubmit at Perspectives on Politics.</i>
+<i>Conditionally accepted at Perspectives on Politics.</i>
 
 <u>Abstract</u>: Populists often employ vague and elusive policy prescriptions, but we do not know if this facility for obfuscation is inherent to populism or if it is a response to other characteristics of these parties or their competitive environments. This paper uses data from Europe alongside novel, validated Latin American data to test the argument that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that populists blur their economic positions in multidimensional systems and when they adopt exclusionary thick ideologies. Populist parties in unidimensional party systems and those with inclusionary thick ideologies, however, present clear economic positions. These findings, and the extension of this research field beyond Europe for the first time, have implications for the study of populism as a global phenomenon. Populism and the actors who deploy it should be theorized complexly as strategic actors embedded in diverse social and political systems structuring the opportunities and constraints that these parties adapt to in the electoral arena.
 
@@ -23,7 +23,7 @@ title: "Work in Progress"
 
 **with Isabel Laterzo and Ayelén Vanegas**
 
-<i>Under review.</i>
+<i>Invited to revise and resubmit at the British Journal of Political Science.</i>
 
 <u>Abstract</u>: How do criminal proceedings against democratically elected executives influence citizens' support for democracy? We explore citizens' reactions to institutional accountability processes by analyzing the effect of coup charges brought against former president Bolsonaro by Brazil's Prosecutor General. Taking advantage of the fortuitous timing of these charges during our survey fieldwork, we demonstrate that the indictment significantly bolstered democratic support among non-Bolsonaro voters, while having no discernible negative effect on his supporters. Our findings offer a nuanced view of theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their preferred leaders. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
