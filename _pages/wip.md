@@ -2,22 +2,22 @@
 permalink: /wip/
 title: "Work in Progress"
 ---
-## Why Do Voters Comply During Clientelist Exchanges? Affective Clientelism, the Commitment Problem, and Expressive Partisanship in Mexico
-
-**with Rodrigo Castro Cornejo**
-
-<i>Invited to revise and resubmit at Perspectives on Politics.</i>
-
-<u>Abstract</u>: Clientelist exchanges are typically analyzed from an instrumental perspective. In this paper we propose a new theory of affective commitments and argue that gift-giving can transcend utilitarian considerations, increase expressive attitudes towards political parties, shape partisan loyalties, and foster commitment to patron-client relationships. Identifying the effect of clientelism on citizens’ expressive considerations is particularly challenging because political parties often target loyal voters and voters tend to misreport these interactions. We overcome this challenge using a three-part strategy. First, we leverage a three-wave panel study that allows us to identify the effect of clientelism on affects, partisanship, and vote choice, controlling for political machines’ pre-existing patterns of resource allocation. Second, using a mediation analysis, we assess whether affects can increase commitment to patron-client relationships. Finally, we use a survey experiment to evaluate the plausibility of the proposed mechanisms. Without denying the crucial role that instrumental considerations have in clientelist exchanges, our findings suggest that affective channels play a role in solving commitment issues in patron-client relationships.
-
-## To Blur or Not to Blur: Disentangling Populist Ideology and Electoral Strategy in Europe and Latin America
+## Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy
 
 **with Jacob Gunderson**
 
 <i>Conditionally accepted at Perspectives on Politics.</i>
 
-<u>Abstract</u>: Populists often employ vague and elusive policy prescriptions, but we do not know if this facility for obfuscation is inherent to populism or if it is a response to other characteristics of these parties or their competitive environments. This paper uses data from Europe alongside novel, validated Latin American data to test the argument that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that populists blur their economic positions in multidimensional systems and when they adopt exclusionary thick ideologies. Populist parties in unidimensional party systems and those with inclusionary thick ideologies, however, present clear economic positions. These findings, and the extension of this research field beyond Europe for the first time, have implications for the study of populism as a global phenomenon. Populism and the actors who deploy it should be theorized complexly as strategic actors embedded in diverse social and political systems structuring the opportunities and constraints that these parties adapt to in the electoral arena.
+<u>Abstract</u>: Positional blurring is a common and effective party strategy. It enables parties to downplay some issues while highlighting and clarifying the party’s profile on others. However, we know little about how parties use this strategy outside European party systems, where (right-wing) populist parties are particularly noteworthy for their blurred economic positions and clear cultural positions. Is that strategy inherent to populism or a reflection of context-specific incentives? This paper uses data from Europe and Latin America to argue that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that multidimensional party systems and exclusionary thick ideologies drive populists to blur their economic positions. Extending this research field beyond Europe for the first time, these findings show that populists are heterogenous actors whose varied thick ideologies embedded in diverse political systems systematically constrain their strategic behavior.
 
+
+## Affective Clientelism: How Electoral Gift-Giving Cultivates Partisan Attachments and Electoral Support
+
+**with Rodrigo Castro Cornejo**
+
+<i>Invited to revise and resubmit at Perspectives on Politics.</i>
+
+<u>Abstract</u>: While scholarship has long recognized the role of affects and emotions as constitutive motivators sustaining patron-client ties, quantitative research predominantly portrays clientelist relationships as strategic interactions between utility-maximizing actors. We develop a theoretical framework characterizing three distinct motivations underlying clientelistic exchanges: instrumental calculations, normative obligations, and affective attachments, and focus on how the latter shape electoral behavior and partisan loyalties among recipients. Specifically, we posit that gift-giving can foster positive affective ties and strengthen partisan loyalties. To test this theory, we employ a three-part methodological approach in Mexico: a three-wave panel study tracking clientelism's effects on attitudes and behavior, a mediation analysis examining affective pathways to electoral support, and a survey experiment testing whether clientelist exchanges evoke positive emotions toward patrons. Without denying the crucial role of instrumental and normative considerations in clientelist exchanges, our findings demonstrate that affective channels significantly contribute to cultivating and consolidating electoral bases. These results integrate insights from ethnographic research on affective dimensions of clientelism with quantitative approaches focused on material incentives, contributing to a growing body of work that moves beyond monitoring and enforcement towards understanding the broader relational and psychological foundations of clientelist ties.
 
 ## Institutional Accountability and Support for Democracy: Evidence from a Natural Experiment
 
