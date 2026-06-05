@@ -43,6 +43,8 @@ title: "Work in Progress"
 
 ## The 2024 Chapel Hill Expert Survey – Latin America: Ideology, Populism, and Illiberalism
 
+**with Cecilia Martínez-Gallardo, Jonathan Hartlyn, and Eugenia Aguirre Raftacco**
+
 <i>Under review.<i>
 
 <u>Abstract</u>: How do political parties in contemporary Latin America compete for popular support? This letter introduces the second wave of the 2024 Chapel Hill Expert Survey - Latin America (CHES-LA), a dataset of expert assessments of political parties' positions across 18 Latin American countries. We first establish measurement reliability by benchmarking expert disagreement scores against both the 2020 CHES-LA and the 2024 CHES-Europe. We then evaluate the dimensionality of ideological party competition: while in Europe it is structured along distinct economic and socio-cultural dimensions, in Latin America party competition is organized along a single overarching left-right axis. Finally, we characterize patterns of party competition in Latin America across three relevant dimensions: left-right ideology, populism, and illiberalism. We find that populism and illiberalism are associated with ideological extremism and skew modestly to the right. Though conceptually distinct, populism and illiberalism are strongly associated empirically in contemporary Latin America.
@@ -56,6 +58,18 @@ title: "Work in Progress"
 **with Michael Greenberger**
 
 <u>Abstract</u>: Public trust in American political institutions has declined sharply since the 1950s, raising concerns about democratic stability, yet we lack a clear agreement on the precise psychological mechanisms underlying institutional trust formation. Understanding how citizens evaluate political institutions presents a significant theoretical challenge: political institutions consist of intricate networks of rules, procedures, and personnel, while citizens consistently demonstrate low levels of political knowledge and engagement. How do citizens generate judgments about complex political institutions despite their limited political sophistication? We argue that citizens navigate institutional complexity through heuristic processing, primarily by evaluating what they perceive as prototypical institutional members. Rather than engaging with institutional complexity directly, citizens form trust judgments based on their perceptions of representative institutional actors, effectively lowering the cognitive cost of their judgments. We propose evaluating several testable implications of our theory through four studies combining open survey questions content analysis, survey experiments, and conjoint experimental designs. Our findings seek to advance our understanding of political trust formation and inform practical efforts to rebuild confidence in democratic institutions.
+
+## Evaluating the Tradeoffs in Expert Survey Sample Size
+
+**with Ryan Bakker and Jonathan Polk**
+
+Expert surveys have become central tools for measuring political actors and institutional attributes, yet no clear guidelines exist on how many experts are needed to produce reliable estimates. As these surveys have multiplied, the absence of such guidelines has placed growing and potentially unsustainable demands on a small community of specialists asked repeatedly to participate. Using Monte Carlo simulations and bootstrap resampling of existing expert survey data, we show that the number of experts required for reliable estimation varies systematically with the dispersion of placements for each stimulus-dimension combination. Where dispersion is low, estimates stabilize quickly even with small panels; where dispersion is high, larger panels are required to achieve comparable precision. We offer practical guidance for expert survey design, recommending that projects use prior knowledge and iterative data collection to target recruitment toward stimulus-dimension combinations where additional expert responses are most likely to improve measurement.
+
+## Exploring the Dimensionality of Party Competition in Contemporary Latin America: Ideology, Populism, and Illiberalism
+
+**with João Cardoso L. Camargos, Cecilia Martínez-Gallardo, and Jonathan Hartlyn**
+
+Party competition in contemporary Latin America has been characterized as organized along a single overarching left-right ideological axis. This is a partially accurate portrait of the region that we argue needs to incorporate the role of populism and illiberalism, which constitute a second, largely independent dimension of party competition. Using Confirmatory Factor Analysis (CFA) and the 2024 Chapel Hill Expert Survey–Latin America (CHES-LA), we show that economic and socio-cultural positions remain empirically indistinguishable, confirming the unidimensionality of the left-right axis in the region. We further show that populism and illiberalism together constitute a second dimension of competition that cuts across left-right ideology. Though conceptually distinct, populism and illiberalism form one rather than two separate dimensions, pointing to a strong elective affinity between them that has direct implications for the prospects of liberal democratic governance in the region. Reflecting the current overall regional trend, there is an association between ideological extremism and populism and illiberalism, asymmetrically much stronger on the right, while there is also important heterogeneity at the country level.
 
 ## A Model of Clientelistic Propensity: How Short-Term Economic Shocks Shape Voters' Receptivity to Clientelism
 
