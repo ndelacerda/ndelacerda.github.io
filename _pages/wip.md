@@ -27,6 +27,14 @@ title: "Work in Progress"
 
 <u>Abstract</u>: How do criminal proceedings against democratically elected executives influence citizens' support for democracy? We explore citizens' reactions to institutional accountability processes by analyzing the effect of coup charges brought against former president Bolsonaro by Brazil's Prosecutor General. Taking advantage of the fortuitous timing of these charges during our survey fieldwork, we demonstrate that the indictment significantly bolstered democratic support among non-Bolsonaro voters, while having no discernible negative effect on his supporters. Our findings offer a nuanced view of theories suggesting that partisan loyalties should lead supporters to reject democratic institutions that target their preferred leaders. This study contributes novel evidence on democratic resilience by capturing real-time reactions to consequential accountability processes outside experimental settings.
 
+## The 2024 Chapel Hill Expert Survey – Latin America: Ideology, Populism, and Illiberalism
+
+**with Cecilia Martínez-Gallardo, Jonathan Hartlyn, and Eugenia Aguirre Raftacco**
+
+<i>Invited to revise and resubmit at the British Journal of Political Science.</i>
+
+<u>Abstract</u>: How do political parties in contemporary Latin America compete for popular support? This letter introduces the second wave of the 2024 Chapel Hill Expert Survey - Latin America (CHES-LA), a dataset of expert assessments of political parties' positions across 18 Latin American countries. We first establish measurement reliability by benchmarking expert disagreement scores against both the 2020 CHES-LA and the 2024 CHES-Europe. We then evaluate the dimensionality of ideological party competition: while in Europe it is structured along distinct economic and socio-cultural dimensions, in Latin America party competition is organized along a single overarching left-right axis. Finally, we characterize patterns of party competition in Latin America across three relevant dimensions: left-right ideology, populism, and illiberalism. We find that populism and illiberalism are associated with ideological extremism and skew modestly to the right. Though conceptually distinct, populism and illiberalism are strongly associated empirically in contemporary Latin America.
+
 ## Thick and Thin Ideological Dimensions of Party Competition in Latin America
 
 **with Pablo Argote and Giancarlo Visconti**
@@ -40,14 +48,6 @@ title: "Work in Progress"
 <i>Under review.<i>
 
 <u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
-
-## The 2024 Chapel Hill Expert Survey – Latin America: Ideology, Populism, and Illiberalism
-
-**with Cecilia Martínez-Gallardo, Jonathan Hartlyn, and Eugenia Aguirre Raftacco**
-
-<i>Under review.<i>
-
-<u>Abstract</u>: How do political parties in contemporary Latin America compete for popular support? This letter introduces the second wave of the 2024 Chapel Hill Expert Survey - Latin America (CHES-LA), a dataset of expert assessments of political parties' positions across 18 Latin American countries. We first establish measurement reliability by benchmarking expert disagreement scores against both the 2020 CHES-LA and the 2024 CHES-Europe. We then evaluate the dimensionality of ideological party competition: while in Europe it is structured along distinct economic and socio-cultural dimensions, in Latin America party competition is organized along a single overarching left-right axis. Finally, we characterize patterns of party competition in Latin America across three relevant dimensions: left-right ideology, populism, and illiberalism. We find that populism and illiberalism are associated with ideological extremism and skew modestly to the right. Though conceptually distinct, populism and illiberalism are strongly associated empirically in contemporary Latin America.
 
 ## Beyond Partisanship: Theory and Methods
 
@@ -76,9 +76,3 @@ Presidential candidates who allege electoral fraud without evidence can delegiti
 **with João Cardoso L. Camargos, Cecilia Martínez-Gallardo, and Jonathan Hartlyn**
 
 Party competition in contemporary Latin America has been characterized as organized along a single overarching left-right ideological axis. This is a partially accurate portrait of the region that we argue needs to incorporate the role of populism and illiberalism, which constitute a second, largely independent dimension of party competition. Using Confirmatory Factor Analysis (CFA) and the 2024 Chapel Hill Expert Survey–Latin America (CHES-LA), we show that economic and socio-cultural positions remain empirically indistinguishable, confirming the unidimensionality of the left-right axis in the region. We further show that populism and illiberalism together constitute a second dimension of competition that cuts across left-right ideology. Though conceptually distinct, populism and illiberalism form one rather than two separate dimensions, pointing to a strong elective affinity between them that has direct implications for the prospects of liberal democratic governance in the region. Reflecting the current overall regional trend, there is an association between ideological extremism and populism and illiberalism, asymmetrically much stronger on the right, while there is also important heterogeneity at the country level.
-
-## A Model of Clientelistic Propensity: How Short-Term Economic Shocks Shape Voters' Receptivity to Clientelism
-
-**with Gonzalo Contreras Aguirre**
-
-<u>Abstract</u>: Are voters more inclined to engage in clientelism depending on context-specific situations? Existing scholarship has largely focused on structural, institutional, and cultural norms to explain clientelism. Nevertheless, this literature does not adequately address the temporal dimension of citizens’ propensity to engage in clientelistic dynamics. In this article, we report evidence that willingness to engage in clientelism is driven by circumstantial factors, such as economic downturns or increases in political cynicism. Our contribution is twofold. First, we show that citizens’ willingness to engage in quid pro quo relations with politicians is at least partially driven by conjunctural conditions, rather than solely by structural and institutional determinants, as conventional scholarship asserts. Second, in the context of the worldwide crisis of representation and credibility in politics, we report that economic adversity, as well as temporary increases in political cynicism stemming from corruption scandals and other shortcomings of democratic representation, can play a significant role in explaining why people may be more likely to cast votes for non-programmatic reasons.

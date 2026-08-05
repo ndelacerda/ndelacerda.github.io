@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicolás de la Cerda"
 title_separator          : "-"
 name                     : &name "Nicolás de la Cerda"
-description              : &description "Postdoctoral Fellow, Tulane University. Comparative political psychology and behavior."
+description              : &description "Assistant Professor, University of New Mexico. Comparative political psychology and behavior."
 url                      : "https://nicolasdelacerda.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ndelacerda/ndelacerda.github.io"
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Nicolás de la Cerda"
   avatar           : "profile_3.JPG"
-  bio              : "Post-Doctoral Fellow. Center for Inter-American Policy and Research (CIPR), Tulane University"
-  location         : "New Orleans, Louisiana"
+  bio              : "Assistant Professor. Department of Political Science, University of New Mexico"
+  location         : "Albuquerque, New Mexico"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=X8xHKWMAAAAJ&hl=en"
-  email            : "ndelacerdacoya@tulane.edu"
+  email            : "ndelacerda@unm.edu"
   researchgate     :
   uri              :
   bitbucket        :
