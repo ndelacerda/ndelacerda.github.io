@@ -5,7 +5,10 @@ title: "Teaching"
 
 ## Primary Instructor
 
-### The University of North Carolina at Chapel Hill
+### University of New Mexico
+- Political Science 580: Introduction to Empirical Research (Fall 2026)
+
+### University of North Carolina at Chapel Hill
 - POLI 209: Analyzing Public Opinion (Summer I 2021, Fall 2021)
     - [Syllabus](/files/teaching/poli209_syllabus_2021_fall.pdf)
 - POLI 130: Introduction to Comparative Politics (Spring 2021)
@@ -23,7 +26,7 @@ title: "Teaching"
 
 ## Teaching Assistant
 
-### The University of North Carolina at Chapel Hill
+### University of North Carolina at Chapel Hill
 - Data Literacy Lab (Fall 2022, Spring 2023, Fall 2023, Spring 2024)
 - POLI 203: Race, Innocence, and the Decline of the Death Penalty (Spring 2022)
 - POLI 130: Comparative Politics (Fall 2019, Spring 2020, Fall, 2020)

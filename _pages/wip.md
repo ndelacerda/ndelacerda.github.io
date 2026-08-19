@@ -6,7 +6,7 @@ title: "Work in Progress"
 
 **with Jacob Gunderson**
 
-<i>Conditionally accepted at Perspectives on Politics.</i>
+<i>Forthcoming at Perspectives on Politics.</i>
 
 <u>Abstract</u>: Positional blurring is a common and effective party strategy. It enables parties to downplay some issues while highlighting and clarifying the party’s profile on others. However, we know little about how parties use this strategy outside European party systems, where (right-wing) populist parties are particularly noteworthy for their blurred economic positions and clear cultural positions. Is that strategy inherent to populism or a reflection of context-specific incentives? This paper uses data from Europe and Latin America to argue that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that multidimensional party systems and exclusionary thick ideologies drive populists to blur their economic positions. Extending this research field beyond Europe for the first time, these findings show that populists are heterogenous actors whose varied thick ideologies embedded in diverse political systems systematically constrain their strategic behavior.
 
@@ -35,6 +35,13 @@ title: "Work in Progress"
 
 <u>Abstract</u>: How do political parties in contemporary Latin America compete for popular support? This letter introduces the second wave of the 2024 Chapel Hill Expert Survey - Latin America (CHES-LA), a dataset of expert assessments of political parties' positions across 18 Latin American countries. We first establish measurement reliability by benchmarking expert disagreement scores against both the 2020 CHES-LA and the 2024 CHES-Europe. We then evaluate the dimensionality of ideological party competition: while in Europe it is structured along distinct economic and socio-cultural dimensions, in Latin America party competition is organized along a single overarching left-right axis. Finally, we characterize patterns of party competition in Latin America across three relevant dimensions: left-right ideology, populism, and illiberalism. We find that populism and illiberalism are associated with ideological extremism and skew modestly to the right. Though conceptually distinct, populism and illiberalism are strongly associated empirically in contemporary Latin America.
 
+## Political Identities and Belief Networks in Developing Democracies
+
+<i>Invited to revise and resubmit at Political Psychology.<i>
+
+<u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
+
+
 ## Thick and Thin Ideological Dimensions of Party Competition in Latin America
 
 **with Pablo Argote and Giancarlo Visconti**
@@ -42,12 +49,6 @@ title: "Work in Progress"
 <i>Under review.</i>
 
 <u>Abstract</u>: While previous research has shown the programmatic component of party competition in Latin America is structured along a single ideological left-right dimension, we argue that voters perceive party competition as simultaneously structured along two axes: a thick and thin ideological dimension. While the former represents traditional definitions of left-right competition, this latter dimension is characterized by the division between establishment and non-establishment orientations. We test this hypothesis in Chile, a country that previously has been characterized as the most unidimensional of the region. Using robust latent variable estimation techniques and both observational and experimental data, we show that voting decisions are shaped not only by left-right ideological positions but also by attitudes towards the political establishment. This finding challenges the prevailing unidimensional model of ideological competition in Latin America and suggests a more complex framework for understanding voter behavior in the region.
-
-## Political Identities and Belief Networks in Developing Democracies
-
-<i>Under review.<i>
-
-<u>Abstract</u>: Research in developed democracies suggests that belief networks are structured around political identities. However, we know much less about how belief networks are organized in places with less democratic experience and volatile party systems. Because political elites play a key role in structuring belief systems by organizing belief packages and signaling to voters which ideas “ought to be together”, belief systems in less organized party systems can potentially systematically differ from those in highly institutionalized democracies. I argue that alternative forms of political identification beyond partisanship play a fundamental role in shaping political belief networks in contexts where party competition is less institutionalized. Using data from Chile and Peru and Mixed Graphical Models (MGNs), I show how ideological and political movement markers, as well as partisan ones, play an important role in structuring belief systems. Findings underscore the relevance of alternative forms of political identification, beyond partisanship, in less institutionalized democracies.
 
 ## Beyond Partisanship: Theory and Methods
 
@@ -70,6 +71,12 @@ Expert surveys have become central tools for measuring political actors and inst
 **with Mollie J. Cohen**
 
 Presidential candidates who allege electoral fraud without evidence can delegitimize incoming governments, deepen distrust in electoral institutions, and erode citizens' commitment to democratic norms and procedures. Yet we know little about how exposure to such accusations changes what citizens consider acceptable political behavior. We argue that accusations of electoral fraud shift social norms regarding the legitimacy of such claims, alter perceptions of both accused and accusing candidates, and erode trust in the electoral institutions that certify results. We test this argument using a three-wave online panel survey of Peruvian citizens conducted during the 2026 presidential election. Panel data collected before, between, and after each round of voting allow us to trace within-person shifts in attitudes across the electoral cycle. To identify the causal effect of candidate fraud accusations on norms and attitudes, we complement the observational analysis with two survey experiments. Observational data from the first two panel waves reveal shifts in social norms and political perceptions consistent with our expectations. Preliminary results from Experiment 1 show that recalling candidate fraud accusations reduces affect toward both candidates and increases endorsement of political violence norms, though effects on institutional trust and anti-fraud norms are not statistically significant. Third-wave data collection is currently underway.
+
+## The Founder’s Shadow: Party Institutionalization Under Charismatic Leadership
+
+**with Sergio Ascencio and Rodrigo Castro Cornejo**
+
+Charismatic leaders often build dominant parties, but does electoral strength reflect durable organizational attachment or merely the founder's personal appeal? This question bears on whether such parties survive leadership transitions and provide stable representation. We study two conditions for institutionalization under charismatic leadership: whether voters recognize the party as an actor independent of its founder, and whether authority transfers to a successor after the founder departs. Mexico's Movimiento Regeneración Nacional (MORENA) offers unusual leverage: founded by Andrés Manuel López Obrador, it now operates under successor Claudia Sheinbaum while López Obrador remains politically prominent. Using three survey experiments that vary agreement and disagreement between the party, its founder, and its successor, we test whether disagreement erodes the party's perceived coherence and whether endorsements from either leader outweigh the party's own cue. Findings speak to party institutionalization beyond Mexico, from Correa's Alianza PAIS to Orbán's Fidesz, and to when charismatic parties can outlast the individuals who built them.
 
 ## Exploring the Dimensionality of Party Competition in Contemporary Latin America: Ideology, Populism, and Illiberalism
 
