@@ -2,14 +2,6 @@
 permalink: /wip/
 title: "Work in Progress"
 ---
-## Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy
-
-**with Jacob Gunderson**
-
-<i>Forthcoming at Perspectives on Politics.</i>
-
-<u>Abstract</u>: Positional blurring is a common and effective party strategy. It enables parties to downplay some issues while highlighting and clarifying the party’s profile on others. However, we know little about how parties use this strategy outside European party systems, where (right-wing) populist parties are particularly noteworthy for their blurred economic positions and clear cultural positions. Is that strategy inherent to populism or a reflection of context-specific incentives? This paper uses data from Europe and Latin America to argue that populists tailor their strategies to the dimensionality of their party system and populism’s host ideology. We find that multidimensional party systems and exclusionary thick ideologies drive populists to blur their economic positions. Extending this research field beyond Europe for the first time, these findings show that populists are heterogenous actors whose varied thick ideologies embedded in diverse political systems systematically constrain their strategic behavior.
-
 
 ## Affective Clientelism: How Electoral Gift-Giving Cultivates Partisan Attachments and Electoral Support
 

@@ -3,6 +3,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<!--##  “Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy”-->
+
+[12] de la Cerda, Nicolás, and Jacob Gunderson. 2026.  "Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy". *Perspectives on Politics*. [Paper](http://dx.doi.org/10.1017/S1537592726105805).
+
 <!--## Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism-->
 
 [11] de la Cerda, Nicolás, Cecilia Martínez-Gallardo, and Jonathan Hartlyn. 2025. "Explaining Programmatic Party Appeals in Contemporary Latin America: The Differing Roles of Ideology, Particularism and Populism". *Party Politics*. [Paper](https://doi.org/10.1177/13540688251409367).
