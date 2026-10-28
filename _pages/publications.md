@@ -3,6 +3,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<!--##  “Affective Clientelism: How Electoral Gift-Giving Cultivates Partisan Attachments and Electoral Support”-->
+
+[13] de la Cerda, Nicolás, and Rodrigo Castro Cornejo. *Conditionally accepted*.  "Affective Clientelism: How Electoral Gift-Giving Cultivates Partisan Attachments and Electoral Support". *Perspectives on Politics*.
+
+
 <!--##  “Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy”-->
 
 [12] de la Cerda, Nicolás, and Jacob Gunderson. 2026.  "Positional Blurring in Context: How Dimensionality and Ideology Constrain Strategy". *Perspectives on Politics*. [Paper](http://dx.doi.org/10.1017/S1537592726105805).
