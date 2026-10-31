@@ -399,3 +399,28 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/*
+   Publication links (paper PDF, replication files)
+   ========================================================================== */
+
+.pub-links {
+  display: block;
+  margin-top: 0.35em;
+}
+
+.pub-link {
+  margin-right: 0.5em;
+  font-size: 0.95em;
+  color: $link-color;
+  text-decoration: none;
+
+  &:visited {
+    color: $link-color;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+  }
+}
